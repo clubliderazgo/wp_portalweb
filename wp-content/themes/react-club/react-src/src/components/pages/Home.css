@@ -1,0 +1,63 @@
+.app-home {
+    height: 76vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+}
+
+.title {
+    color: #24268c;
+    font-size: 1.5rem;
+    padding: 0;
+}
+
+.title img {
+    width: 67px;
+    height: 67px;
+    vertical-align: middle;
+}
+
+.subtitle {
+    color: #f29a38;
+    font-size: 1.8rem;
+    letter-spacing: -1.75px;
+}
+
+.subtitle p {
+    margin: 0
+}
+
+.subtitle strong {
+    font-weight: 700;
+}
+
+.body {
+    padding: 3% 25% 5%;
+    font-size: 1.45rem;
+    font-weight: 300;
+}
+
+ul.social-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.social-item {
+    margin: 5px;
+    display: inline;
+}
+
+.social-item .social-link {
+    border-radius: 50%;
+    border: 1px solid #24268c;
+    padding: 5px 8px;
+    width: 20px;
+    height: 20px;
+    margin: 3px 5px;
+}
+
+.social-link img {
+    width: 12px;
+    height: 12px;
+}

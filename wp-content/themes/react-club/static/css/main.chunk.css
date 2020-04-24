@@ -1,0 +1,173 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #ffffff;
+}
+
+code {
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a, a:active, a:link, a:hover {
+  text-decoration: none;
+}
+
+.app-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: #24268c;
+}
+
+.logo {
+  font-size: 18px;
+}
+
+.logo img {
+  height: 53px;
+  width: auto;
+  vertical-align: middle;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+}
+
+.header-bar{
+    display: flex;
+}
+
+ul.navbar-nav {
+    display: flex;
+    float: right
+}
+
+ul.navbar-nav li {
+    float: left;
+    padding: 15px;
+    text-align: center;
+}
+
+.nav-item {
+    line-height: 12px;
+}
+.nav-item .nav-link {
+    font-size: 12px;
+    color: #000000;
+    font-weight: 700;
+    letter-spacing: -.4px;
+    text-align: center;
+    display: block;
+}
+
+.nav-link .icon-menu {
+    border: 2px solid #24268c;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 5px 3px;
+    width: 45px;
+    height: 45px;
+}
+.icon-menu img {
+    width: 20px;
+    height: 20px;
+}
+
+.whatsapp {
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #25d366;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    margin: 5px;
+    width: 42px;
+    height: 42px;
+}
+.whatsapp img {
+    width: 20px;
+    height: 20px;
+}
+
+.nav-link.contact {
+    border-radius: 16px;
+    box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
+    background-image: linear-gradient(91deg, #24268c 15%, #3f42cb 62%);
+    color: #ffffff;
+    padding: 10px;
+    margin: 5px 2px;
+}
+
+.app-home {
+    height: 76vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+}
+
+.title {
+    color: #24268c;
+    font-size: 1.5rem;
+    padding: 0;
+}
+
+.title img {
+    width: 67px;
+    height: 67px;
+    vertical-align: middle;
+}
+
+.subtitle {
+    color: #f29a38;
+    font-size: 1.8rem;
+    letter-spacing: -1.75px;
+}
+
+.subtitle p {
+    margin: 0
+}
+
+.subtitle strong {
+    font-weight: 700;
+}
+
+.body {
+    padding: 3% 25% 5%;
+    font-size: 1.45rem;
+    font-weight: 300;
+}
+
+ul.social-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.social-item {
+    margin: 5px;
+    display: inline;
+}
+
+.social-item .social-link {
+    border-radius: 50%;
+    border: 1px solid #24268c;
+    padding: 5px 8px;
+    width: 20px;
+    height: 20px;
+    margin: 3px 5px;
+}
+
+.social-link img {
+    width: 12px;
+    height: 12px;
+}
+
+/*# sourceMappingURL=main.chunk.css.map*/

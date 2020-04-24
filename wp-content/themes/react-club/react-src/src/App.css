@@ -1,0 +1,20 @@
+.app-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: #24268c;
+}
+
+.logo {
+  font-size: 18px;
+}
+
+.logo img {
+  height: 53px;
+  width: auto;
+  vertical-align: middle;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+}

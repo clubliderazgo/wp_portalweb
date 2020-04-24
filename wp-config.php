@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'clublide_wp' );
 
 /** MySQL database username */
-define( 'DB_USER', 'clubliderazgo_wp' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '4dm1n_clu6l1d3' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );

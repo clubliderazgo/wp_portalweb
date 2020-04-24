@@ -1,0 +1,30 @@
+{
+  "files": {
+    "static/js/0.chunk.js": "/wp-content/themes/react-club/static/js/0.chunk.js",
+    "static/js/0.chunk.js.map": "/wp-content/themes/react-club/static/js/0.chunk.js.map",
+    "main.css": "/wp-content/themes/react-club/static/css/main.chunk.css",
+    "main.js": "/wp-content/themes/react-club/static/js/main.chunk.js",
+    "main.css.map": "/wp-content/themes/react-club/static/css/main.chunk.css.map",
+    "main.js.map": "/wp-content/themes/react-club/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wp-content/themes/react-club/static/js/bundle.js",
+    "runtime-main.js.map": "/wp-content/themes/react-club/static/js/bundle.js.map",
+    "index.php": "/wp-content/themes/react-club/index.php",
+    "static/media/bx-book-bookmark.svg": "/wp-content/themes/react-club/static/media/bx-book-bookmark.5deefacf.svg",
+    "static/media/bx-book-reader.svg": "/wp-content/themes/react-club/static/media/bx-book-reader.d43d05e8.svg",
+    "static/media/bx-cloud-download.svg": "/wp-content/themes/react-club/static/media/bx-cloud-download.22ae5604.svg",
+    "static/media/bx-group.svg": "/wp-content/themes/react-club/static/media/bx-group.16bb1b38.svg",
+    "static/media/bx-home.svg": "/wp-content/themes/react-club/static/media/bx-home.ac2817bd.svg",
+    "static/media/bxl-facebook.svg": "/wp-content/themes/react-club/static/media/bxl-facebook.499c8531.svg",
+    "static/media/bxl-instagram.svg": "/wp-content/themes/react-club/static/media/bxl-instagram.df842669.svg",
+    "static/media/bxl-pinterest-alt.svg": "/wp-content/themes/react-club/static/media/bxl-pinterest-alt.53282142.svg",
+    "static/media/bxl-twitter.svg": "/wp-content/themes/react-club/static/media/bxl-twitter.1f979ddf.svg",
+    "static/media/bxl-whatsapp.svg": "/wp-content/themes/react-club/static/media/bxl-whatsapp.7007218b.svg",
+    "static/media/logo.png": "/wp-content/themes/react-club/static/media/logo.b0a85ed6.png"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/0.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
